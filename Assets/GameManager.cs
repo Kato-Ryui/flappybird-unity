@@ -6,6 +6,6 @@ public class GameManager : MonoBehaviour
 {
     public void Retry()
     {
-        Application.LoadLevel(Application.loadedLevel);
+        UnityEngine.SceneManagement.SceneManager.LoadScene("Main");
     }
 }
