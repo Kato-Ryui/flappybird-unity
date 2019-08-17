@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{E12FA7A8-7F38-8303-EBA8-B9711334F6B2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Bird.cs">
+    <Files>
+      <File FileName="Assets/Bird.cs" Line="10" Column="1" />
+      <File FileName="Assets/Pypes.cs" />
+      <File FileName="Assets/GameManager.cs" Line="9" Column="56" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="flappybird-unity" expanded="True" selected="True">
+            <Node name="Assets" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="39a42285-027d-4c4c-a298-cc48a7834957" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
